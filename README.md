@@ -2,7 +2,7 @@
 
 Supply chain analytics dashboard built with **Databricks SQL** and **Power BI**. The goal was to turn raw order, inventory, and fulfillment data into something useful — specifically, to understand which products actually make money, whether shipments meet SLA targets, and how revenue breaks down across markets.
 
----
+--
 
 ## Dashboard
 
